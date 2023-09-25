@@ -5,14 +5,14 @@ step 3: At Page dvc-login input on input object
 step 4: At Page dvc-login input on input object
 step 5: At Page dvc-login click on button object --> navigate to Page dvc-home
 step 6: Add visual checkpoint at Page dvc-home",High
-3,"step 1: Navigate to Page contact
-step 2: Add visual checkpoint at Page contact",Low
 7,"step 1: Navigate to Page dvc-home tax-form1 tax-form2 tax-form3
 step 2: Add visual checkpoint at Page dvc-home tax-form1 tax-form2 tax-form3",Low
-6,"step 1: Navigate to Page dvc-home money-form1 money-form2
-step 2: Add visual checkpoint at Page dvc-home money-form1 money-form2",Low
 2,"step 1: Navigate to Page dvc-login
 step 2: Add visual checkpoint at Page dvc-login",Low
+6,"step 1: Navigate to Page dvc-home money-form1 money-form2
+step 2: Add visual checkpoint at Page dvc-home money-form1 money-form2",Low
+3,"step 1: Navigate to Page contact
+step 2: Add visual checkpoint at Page contact",Low
 5,"step 1: Navigate to Page contact step2
 step 2: Add visual checkpoint at Page contact step2",Low
 4,"step 1: Navigate to Page dvc-home money-form1

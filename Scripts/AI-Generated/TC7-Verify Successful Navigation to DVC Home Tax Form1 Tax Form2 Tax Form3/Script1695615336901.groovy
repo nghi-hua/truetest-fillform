@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page dvc-home money-form1 money-form2'
+'step 1: Navigate to Page dvc-home tax-form1 tax-form2 tax-form3'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/dvc-home/money-form1/money-form2')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/dvc-home/tax-form1/tax-form2/tax-form3')
 
-'step 2: Add visual checkpoint at Page dvc-home money-form1 money-form2'
+'step 2: Add visual checkpoint at Page dvc-home tax-form1 tax-form2 tax-form3'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC6-Verify Successful Navigation to Money Form 2 Page from Money Form 1 Page on DVC Home_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC7-Verify Successful Navigation to DVC Home Tax Form1 Tax Form2 Tax Form3_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

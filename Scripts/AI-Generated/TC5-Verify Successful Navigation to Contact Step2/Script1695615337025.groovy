@@ -15,7 +15,7 @@ WebUI.navigateToUrl(GlobalVariable.application_domain + '/contact/step2')
 
 'step 2: Add visual checkpoint at Page contact step2'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC5-Verify Successful Navigation to Contact Step 2 Page_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC5-Verify Successful Navigation to Contact Step2_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
