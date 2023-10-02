@@ -1,19 +1,19 @@
-Flow ID,Test Steps,Flow Priority
-1,"step 1: Navigate to Page home
+Flow ID,Description,Test Steps,Flow Priority
+1,Verify Successful Navigation to page Dvc Home after Starting Flow1 from page Home,"step 1: Navigate to Page home
 step 2: At Page home click on button start flow 1 --> navigate to Page dvc-login
 step 3: At Page dvc-login input on input object
 step 4: At Page dvc-login input on input object
 step 5: At Page dvc-login click on button object --> navigate to Page dvc-home
 step 6: Add visual checkpoint at Page dvc-home",High
-7,"step 1: Navigate to Page dvc-home tax-form1 tax-form2 tax-form3
-step 2: Add visual checkpoint at Page dvc-home tax-form1 tax-form2 tax-form3",Low
-2,"step 1: Navigate to Page dvc-login
+2,Verify Successful Navigation to page Dvc Login,"step 1: Navigate to Page dvc-login
 step 2: Add visual checkpoint at Page dvc-login",Low
-6,"step 1: Navigate to Page dvc-home money-form1 money-form2
-step 2: Add visual checkpoint at Page dvc-home money-form1 money-form2",Low
-3,"step 1: Navigate to Page contact
-step 2: Add visual checkpoint at Page contact",Low
-5,"step 1: Navigate to Page contact step2
-step 2: Add visual checkpoint at Page contact step2",Low
-4,"step 1: Navigate to Page dvc-home money-form1
+4,Verify Successful Navigation to page Dvc Home Money Form1,"step 1: Navigate to Page dvc-home money-form1
 step 2: Add visual checkpoint at Page dvc-home money-form1",Low
+3,Verify Successful Navigation to page Contact,"step 1: Navigate to Page contact
+step 2: Add visual checkpoint at Page contact",Low
+6,Verify Successful Navigation to page Dvc Home Money Form1 Money Form2,"step 1: Navigate to Page dvc-home money-form1 money-form2
+step 2: Add visual checkpoint at Page dvc-home money-form1 money-form2",Low
+7,Verify Successful Navigation to page Dvc Home Tax Form1 Tax Form2 Tax Form3,"step 1: Navigate to Page dvc-home tax-form1 tax-form2 tax-form3
+step 2: Add visual checkpoint at Page dvc-home tax-form1 tax-form2 tax-form3",Low
+5,Verify Successful Navigation to page Contact Step2,"step 1: Navigate to Page contact step2
+step 2: Add visual checkpoint at Page contact step2",Low

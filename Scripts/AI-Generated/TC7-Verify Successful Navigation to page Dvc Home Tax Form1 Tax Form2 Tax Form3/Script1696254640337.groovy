@@ -1,5 +1,5 @@
-import internal.GlobalVariable as GlobalVariable
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable as GlobalVariable
 
 'Initialize test session: Open browser and set view port'
 
@@ -15,7 +15,7 @@ WebUI.navigateToUrl(GlobalVariable.application_domain + '/dvc-home/tax-form1/tax
 
 'step 2: Add visual checkpoint at Page dvc-home tax-form1 tax-form2 tax-form3'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC7-Verify Successful Navigation to DVC Home Tax Form1 Tax Form2 Tax Form3_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC7-Verify Successful Navigation to page Dvc Home Tax Form1 Tax Form2 Tax Form3_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
